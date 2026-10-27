@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" role="img" aria-label="Поехали">
+  <rect width="64" height="64" rx="19" fill="#0a6cf5"/>
+  <path d="M32 51c9.6-9.4 15-16.2 15-22.6a15 15 0 1 0-30 0C17 34.8 22.4 41.6 32 51Z" fill="#fff"/>
+  <circle cx="32" cy="27.2" r="5.8" fill="#ff7a00"/>
+</svg>
